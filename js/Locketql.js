@@ -23,7 +23,7 @@ var locket02 = {
 
 var dohungx = {
   grace_period_expires_date: null,
-  purchase_date: "2024-07-28T01:04:17Z",
+  purchase_date: "2025-08-22T01:04:17Z",
   product_identifier: "com.locket02.premium.yearly",
   expires_date: "2099-12-18T01:04:17Z"
 };
